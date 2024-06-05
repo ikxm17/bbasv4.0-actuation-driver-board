@@ -54,6 +54,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Actuation.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DWSVYEND
+
+[Document2]
 DocumentPath=STM32F407VET6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,23 +86,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXDBRYVJ
-
-[Document2]
-DocumentPath=ASV4-1 Actuation Driver Board.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Document3]
 DocumentPath=W5500_Module.SchDoc
@@ -105,6 +105,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JLUMMZCO
 
 [Document4]
+DocumentPath=ASV4-1 Actuation Driver Board.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTPRWNEU
 
-[Document5]
+[Document6]
 DocumentPath=Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,8 +155,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSKNJZKT
 
-[Document6]
-DocumentPath=Encoders.SchDoc
+[Document7]
+DocumentPath=Differential Encoder Receiver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVACSMIC
 
-[Document7]
+[Document8]
 DocumentPath=ISO_CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
