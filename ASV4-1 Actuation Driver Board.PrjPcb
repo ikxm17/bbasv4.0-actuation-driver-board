@@ -188,7 +188,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKXOIRWZ
 
 [Document9]
-DocumentPath=Job1.OutJob
+DocumentPath=Docs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
